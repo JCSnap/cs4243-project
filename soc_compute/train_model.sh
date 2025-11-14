@@ -5,6 +5,8 @@
 ## Change based on length of job and `sinfo` partitions available
 #SBATCH --partition=gpu
 
+#SBATCH --mem=128G
+
 ## Request for a specific type of node
 ## Commented out for now, change if you need one
 ##SBATCH --constraint xgpe
