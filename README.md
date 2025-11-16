@@ -1,13 +1,33 @@
-## Captcha
+# Team 25
+
+Justin Cheah A0259195N  
+Park Youngseo A0288219R  
+Ho Cheng En Bryan A0234509E  
+Wang Hejin A0258284U  
+Ng Chun Man A0255795L
+
+## Poster
+
+[here](./group25poster.pdf)
+
+## Preprocessing
+
+Jupyter notebook on preprocessing can be found in [preprocessing](./preprocessing)
+
+## CNN Model
+
+In [model](./model/)
+
+## Exploration
+
+In [exploration](./exploration/)
+
+## Training
 
 ### Running on SOC compute
 
 All the files and instructions are in [soc_compute](./soc_compute/)
 
-### Analysing results
+## Analysis
 
-The model trained on [char normalised](https://drive.google.com/drive/folders/1G40aRVz98yQiqm689cn7cQStrwSs7eHK?usp=drive_link) has been uploaded to the drive [here](https://drive.google.com/drive/folders/1uKsXqn2EdNeRjQT1eeV_opnleDhDR1Tm?usp=drive_link)
-
-The test result is [here](./test_result.csv)
-
-The analysis is done [here](./test_analysis.ipynb)
+In [analysis](./analysis/)
